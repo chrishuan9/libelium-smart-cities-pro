@@ -24,6 +24,8 @@
  *  Version:           3.0
  *  Design:            David Gascón 
  *  Implementation:    Yuri Carmona
+ *  More Information at: 
+ *  http://www.libelium.com/development/waspmote/examples/frame-06-set-frame-type/
  */
 
 #include <WaspFrame.h>
